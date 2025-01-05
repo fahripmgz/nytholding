@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="refresh" content="0;url=pages/index.php">
-<title>FMS-Audemars</title>
+<title>Core Systems</title>
 <script language="javascript">
     window.location.href = "pages/index.php"
 </script>
