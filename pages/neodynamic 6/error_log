@@ -1,0 +1,2 @@
+[10-Oct-2024 15:32:59 UTC] PHP Warning:  include(template.php): Failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/neodynamic/index.php on line 106
+[10-Oct-2024 15:32:59 UTC] PHP Warning:  include(): Failed opening 'template.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/appnyt/public_html/warehouse/neodynamic/index.php on line 106

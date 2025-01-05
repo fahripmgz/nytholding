@@ -1,0 +1,408 @@
+[21-Oct-2024 07:55:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/appnyt/public_html/warehouse/controller/process.php:101) in /home/appnyt/public_html/warehouse/controller/process.php on line 105
+[21-Oct-2024 07:59:21 UTC] PHP Warning:  Undefined variable $idCat in /home/appnyt/public_html/warehouse/controller/process.php on line 87
+[21-Oct-2024 08:00:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/appnyt/public_html/warehouse/model/db.php:35
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(35): mysqli->prepare('INSERT INTO `ma...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(87): database->importCatalog('AC000001', 'Cable Tray C Ho...', '', '150 x 100 x 300...', 'Ea', '5', '', '', '1', '1', '')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 35
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:06:43 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: AC000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_name and specification found: , 
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: RK000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: EL000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:12:24 UTC] Duplicate item_code found: FT000001
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 300 x 100 x 3000
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 50 x 50 x 3000
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 150 x 100 x 3000
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 300 x 100  
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 50 x 50  
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 150 x 100  
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 3/4"
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 95mm
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: SC-25-10
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 70mm
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 3/4"
+[21-Oct-2024 08:14:35 UTC] Duplicate found for item_name:  and specification: 3/8" x 3"
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 300 x 100 x 3000
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 50 x 50 x 3000
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 150 x 100 x 3000
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 300 x 100  
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 50 x 50  
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 150 x 100  
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 3/4"
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 95mm
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: SC-25-10
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 70mm
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 3/4"
+[21-Oct-2024 08:47:31 UTC] Duplicate item name and specification for item: , spec: 3/8" x 3"
+[21-Oct-2024 09:19:21 UTC] PHP Warning:  Undefined array key "txtGrnumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 205
+[21-Oct-2024 09:19:21 UTC] PHP Warning:  Undefined array key "$txtGrnumber" in /home/appnyt/public_html/warehouse/model/db.php on line 211
+[21-Oct-2024 09:19:21 UTC] PHP Warning:  Undefined array key "txtGrnumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 206
+[21-Oct-2024 09:52:03 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[22-Oct-2024 04:27:25 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[22-Oct-2024 04:27:45 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[22-Oct-2024 04:31:15 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[22-Oct-2024 04:32:02 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[22-Oct-2024 04:33:01 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/appnyt/public_html/warehouse/model/db.php:329
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/controller/process.php(215): database->insertPutaway('ITEM123', '0', '', '')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 329
+[24-Oct-2024 06:33:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_by' in 'field list' in /home/appnyt/public_html/warehouse/model/db.php:146
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(146): mysqli_query(Object(mysqli), 'UPDATE order_li...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(190): database->editOrder('2', '148/SGU/BRGA/IX...', '1', '1', 'Fahri', '2024-10-24', 'Fahri asd')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 146
+[24-Oct-2024 06:39:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_by' in 'field list' in /home/appnyt/public_html/warehouse/model/db.php:144
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(144): mysqli->prepare('UPDATE order_li...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(190): database->editOrder('2', '148/SGU/BRGA/IX...', '2', '2', 'Fahri', '2024-10-24', 'Fahri')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 144
+[24-Oct-2024 08:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'project_name' in 'where clause' in /home/appnyt/public_html/warehouse/model/db.php:109
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(109): mysqli_query(Object(mysqli), 'SELECT qty FROM...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(216): database->insertItemOrder('ORD-241024-0002', 'AC000002', '15', '1', 'Test')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 109
+[28-Oct-2024 09:52:21 UTC] PHP Warning:  Undefined array key "txtOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 221
+[28-Oct-2024 09:52:21 UTC] PHP Warning:  Undefined array key "txtOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 222
+[28-Oct-2024 09:55:03 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 221
+[28-Oct-2024 09:55:03 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 222
+[28-Oct-2024 09:55:43 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 221
+[28-Oct-2024 09:55:43 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 222
+[30-Oct-2024 09:49:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-10-30'',  'Pending')' at line 2 in /home/appnyt/public_html/warehouse/model/db.php:198
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(198): mysqli_query(Object(mysqli), 'INSERT INTO `go...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(178): database->insertGI('2', 'Fahri', '2024-10-30', 'Test')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 198
+[30-Oct-2024 09:53:41 UTC] PHP Warning:  Undefined array key "txtOrdernumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 179
+[30-Oct-2024 09:53:41 UTC] PHP Warning:  Undefined array key "createby" in /home/appnyt/public_html/warehouse/controller/process.php on line 180
+[30-Oct-2024 09:53:41 UTC] PHP Warning:  Undefined array key "createdate" in /home/appnyt/public_html/warehouse/controller/process.php on line 181
+[30-Oct-2024 09:53:41 UTC] PHP Warning:  Undefined array key "txtNotes" in /home/appnyt/public_html/warehouse/controller/process.php on line 182
+[04-Nov-2024 14:09:55 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:09:55 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:13:27 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:13:27 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:15:45 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:15:45 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:18:37 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:18:37 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:18:42 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:18:42 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:23:44 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:23:44 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:24:43 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:24:43 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 269
+[04-Nov-2024 14:24:43 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 270
+[05-Nov-2024 04:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method database::insertItemIssue() in /home/appnyt/public_html/warehouse/controller/process.php:275
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/controller/process.php on line 275
+[05-Nov-2024 04:28:23 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 275
+[05-Nov-2024 04:28:23 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 275
+[05-Nov-2024 04:28:31 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 275
+[05-Nov-2024 04:28:31 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 275
+[05-Nov-2024 04:33:14 UTC] PHP Warning:  Undefined array key "txtOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 276
+[05-Nov-2024 04:46:55 UTC] PHP Warning:  Undefined array key "actionItemOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:46:59 UTC] PHP Warning:  Undefined array key "actionItemOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:47:04 UTC] PHP Warning:  Undefined array key "actionItemOrder" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:47:56 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[05-Nov-2024 04:47:56 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 292
+[05-Nov-2024 04:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function importItemIssue() in /home/appnyt/public_html/warehouse/controller/process.php:295
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/controller/process.php on line 295
+[05-Nov-2024 04:52:48 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:52:48 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[05-Nov-2024 04:54:10 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:54:10 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[05-Nov-2024 04:54:44 UTC] PHP Warning:  Undefined array key "goodIssueNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 290
+[05-Nov-2024 04:54:44 UTC] PHP Warning:  Undefined array key "OrderNumber" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[05-Nov-2024 06:16:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/appnyt/public_html/warehouse/controller/process.php on line 271
+[05-Nov-2024 06:17:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/appnyt/public_html/warehouse/controller/process.php on line 271
+[05-Nov-2024 06:17:16 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/appnyt/public_html/warehouse/controller/process.php on line 271
+[11-Nov-2024 08:00:43 UTC] PHP Warning:  Undefined array key "id" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:00:43 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:00:43 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 292
+[11-Nov-2024 08:00:53 UTC] PHP Warning:  Undefined array key "id" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:00:53 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:00:53 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 292
+[11-Nov-2024 08:02:35 UTC] PHP Warning:  Undefined array key "id" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:02:35 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 291
+[11-Nov-2024 08:02:35 UTC] PHP Warning:  Undefined array key "code" in /home/appnyt/public_html/warehouse/controller/process.php on line 292
+[19-Nov-2024 05:44:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #3 ($result_mode) must be of type int, string given in /home/appnyt/public_html/warehouse/model/db.php:221
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/model/db.php(221): mysqli_query(Object(mysqli), 'UPDATE good_iss...', 'UPDATE good_iss...')
+#1 /home/appnyt/public_html/warehouse/controller/process.php(298): database->saveItemIssue('GI-111124-0001')
+#2 {main}
+  thrown in /home/appnyt/public_html/warehouse/model/db.php on line 221

@@ -1,0 +1,511 @@
+[04-Oct-2024 08:30:21 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:21 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:21 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:21 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:30:24 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:24 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:24 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:24 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:30:37 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:37 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:37 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:37 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:30:39 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:39 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:39 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:39 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:30:54 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:54 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:30:54 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:30:54 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:30:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:32:57 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:32:57 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:32:57 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:32:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:32:57 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:32:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:32:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:33:04 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:33:04 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:33:04 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:33:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:33:04 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:33:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:33:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:35:15 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:35:15 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:35:15 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:35:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:35:15 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:35:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:35:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:37:07 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:37:07 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:37:07 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:37:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:37:07 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:37:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:37:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:37:09 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:37:09 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:37:09 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:37:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:37:09 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:37:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:37:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:38:23 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:38:23 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:38:23 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:38:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:38:23 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:38:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:38:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:38:57 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:38:57 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:38:57 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:38:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:38:57 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:38:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:38:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:39:20 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:39:20 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:39:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:39:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:39:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:39:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:39:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 10
+[04-Oct-2024 08:40:29 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:29 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:29 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:29 UTC] Selected item_code: 
+[04-Oct-2024 08:40:29 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:29 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:29 UTC] Query Error: 
+[04-Oct-2024 08:40:49 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:49 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:49 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:49 UTC] Selected item_code: 
+[04-Oct-2024 08:40:49 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:49 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:49 UTC] Query Error: 
+[04-Oct-2024 08:40:56 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:56 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:56 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:56 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:56 UTC] Selected item_code: 
+[04-Oct-2024 08:40:56 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:56 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:56 UTC] Query Error: 
+[04-Oct-2024 08:40:58 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:58 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:40:58 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:40:58 UTC] Selected item_code: 
+[04-Oct-2024 08:40:58 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:40:58 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:40:58 UTC] Query Error: 
+[04-Oct-2024 08:42:11 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:42:11 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:42:11 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:42:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:42:11 UTC] Selected item_code: 
+[04-Oct-2024 08:42:11 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:42:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:42:11 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:42:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:42:11 UTC] Query Error: 
+[04-Oct-2024 08:42:26 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:42:26 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:42:26 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:42:26 UTC] Selected item_code: 
+[04-Oct-2024 08:42:26 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:42:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:42:26 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:42:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:42:26 UTC] Query Error: 
+[04-Oct-2024 08:52:40 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:52:40 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:52:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:52:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:52:40 UTC] Selected item_code: 
+[04-Oct-2024 08:52:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:52:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:52:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:52:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:52:40 UTC] Query Error: 
+[04-Oct-2024 08:54:28 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:54:28 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:54:28 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:54:28 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:54:28 UTC] Selected item_code: 
+[04-Oct-2024 08:54:28 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:54:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:54:28 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:54:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:54:28 UTC] Query Error: 
+[04-Oct-2024 08:54:31 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:54:31 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:54:31 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:54:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 4
+[04-Oct-2024 08:54:31 UTC] Selected item_code: 
+[04-Oct-2024 08:54:31 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 08:54:31 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:54:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 11
+[04-Oct-2024 08:54:31 UTC] Query Error: 
+[04-Oct-2024 08:55:37 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:37 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:37 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:37 UTC] Selected item_code: 
+[04-Oct-2024 08:55:37 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:37 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:37 UTC] Query Error: 
+[04-Oct-2024 08:55:39 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:39 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:39 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:39 UTC] Selected item_code: 
+[04-Oct-2024 08:55:39 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:39 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:39 UTC] Query Error: 
+[04-Oct-2024 08:55:40 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:40 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:40 UTC] Selected item_code: 
+[04-Oct-2024 08:55:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:40 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:40 UTC] Query Error: 
+[04-Oct-2024 08:55:43 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:43 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:55:43 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:43 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:55:43 UTC] Selected item_code: 
+[04-Oct-2024 08:55:43 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:55:43 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:55:43 UTC] Query Error: 
+[04-Oct-2024 08:57:52 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:57:52 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 08:57:52 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:57:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 08:57:52 UTC] Selected item_code: 
+[04-Oct-2024 08:57:52 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:57:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 9
+[04-Oct-2024 08:57:52 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:57:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 12
+[04-Oct-2024 08:57:52 UTC] Query Error2: 
+[04-Oct-2024 08:58:35 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:58:41 UTC] Selected item_code: 
+[04-Oct-2024 08:58:42 UTC] Selected item_code: AC000003
+[04-Oct-2024 08:58:46 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:58:47 UTC] Selected item_code: AC000003
+[04-Oct-2024 08:58:49 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:58:51 UTC] Selected item_code: AC000001
+[04-Oct-2024 08:58:53 UTC] Selected item_code: AC000003
+[04-Oct-2024 08:58:54 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:58:56 UTC] Selected item_code: AC000003
+[04-Oct-2024 08:59:47 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:59:49 UTC] Selected item_code: AC000003
+[04-Oct-2024 08:59:55 UTC] Selected item_code: AC000002
+[04-Oct-2024 08:59:58 UTC] Selected item_code: AC000003
+[04-Oct-2024 09:00:01 UTC] Selected item_code: RK000001
+[04-Oct-2024 09:02:07 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:02:09 UTC] Selected item_code: AC000001
+[04-Oct-2024 09:02:11 UTC] Selected item_code: AC000003
+[04-Oct-2024 09:02:47 UTC] Selected item_code: AC000003
+[04-Oct-2024 09:02:49 UTC] Selected item_code: AC000001
+[04-Oct-2024 09:03:10 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:03:13 UTC] Selected item_code: AC000001
+[04-Oct-2024 09:03:15 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:03:43 UTC] Selected item_code: AC000001
+[04-Oct-2024 09:04:37 UTC] Selected item_code: RK000001
+[04-Oct-2024 09:04:39 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:04:41 UTC] Selected item_code: AC000003
+[04-Oct-2024 09:05:03 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:06:11 UTC] Selected item_code: AC000002
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:18 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:18 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:18 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:18 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[04-Oct-2024 09:09:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:20 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[04-Oct-2024 09:09:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 2
+[04-Oct-2024 09:09:22 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 5
+[04-Oct-2024 09:09:22 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_measurement.php on line 8
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  include_once(../model/config.php): failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 2
+[04-Oct-2024 09:09:22 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 5
+[04-Oct-2024 09:09:22 UTC] PHP Notice:  Undefined variable: conn in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[04-Oct-2024 09:09:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/appnyt/public_html/warehouse/pages/jscript/get_item_name.php on line 8
+[17-Oct-2024 08:17:57 UTC] PHP Warning:  include_once(../model/config.php): Failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:17:57 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:17:57 UTC] PHP Warning:  Undefined variable $conn in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 9
+[17-Oct-2024 08:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 9
+[17-Oct-2024 08:21:56 UTC] PHP Warning:  include_once(../model/config.php): Failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:21:56 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:23:39 UTC] PHP Warning:  include_once(../model/config.php): Failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:23:39 UTC] PHP Warning:  include_once(): Failed opening '../model/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 3
+[17-Oct-2024 08:23:39 UTC] PHP Warning:  Undefined variable $conn in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 9
+[17-Oct-2024 08:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 9
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 08:24:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 16
+[17-Oct-2024 09:05:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condition_to_filter' in 'where clause' in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:13
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php(13): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 13
+[18-Oct-2024 05:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 7
+[18-Oct-2024 05:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 7
+[18-Oct-2024 05:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 7
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:51:40 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:00 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:17 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:58:25 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:02 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 05:59:34 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:00:06 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:02:07 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[18-Oct-2024 06:22:49 UTC] PHP Warning:  Undefined array key "rack" in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_rack.php on line 11
+[24-Oct-2024 03:58:52 UTC] PHP Warning:  include(../model/db.php): Failed to open stream: No such file or directory in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_department.php on line 3
+[24-Oct-2024 03:58:52 UTC] PHP Warning:  include(): Failed opening '../model/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_department.php on line 3
+[24-Oct-2024 03:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "database" not found in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_department.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/dropdown_ajax_department.php on line 4
+[19-Nov-2024 09:13:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where status='0'' at line 4 in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php:23
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php(23): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php on line 23
+[19-Nov-2024 09:13:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where status='0'' at line 4 in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php:23
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php(23): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php on line 23
+[19-Nov-2024 09:13:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where status='0'' at line 4 in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php:23
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php(23): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php on line 23
+[19-Nov-2024 09:15:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where status='0'' at line 4 in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php:23
+Stack trace:
+#0 /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php(23): mysqli_query(Object(mysqli), '\n        SELECT...')
+#1 {main}
+  thrown in /home/appnyt/public_html/warehouse/pages/jscript/get_item_stock.php on line 23

@@ -1,0 +1,126 @@
+[28-Jun-2023 12:30:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:30:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:31:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:31:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:31:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:31:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:31:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:31:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:31:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:31:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:31:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:31:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:32:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:32:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:32:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:32:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:32:13 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:32:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 12:32:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 12:32:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:03:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:04:09 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:04:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:04:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:04:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:04:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:04:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:04:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:04:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:05:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:05:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:05:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:05:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
+[28-Jun-2023 14:06:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/appnyt/public_html/app-audemars/pages/serverside/connection.php on line 1
+[28-Jun-2023 14:06:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php:60
+Stack trace:
+#0 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(32): Stock->getRecords(Array)
+#1 /home/appnyt/public_html/app-audemars/pages/serverside/stock.php(19): Stock->getStocks(Array)
+#2 {main}
+  thrown in /home/appnyt/public_html/app-audemars/pages/serverside/stock.php on line 60
