@@ -19,23 +19,21 @@ if (!isset($_SESSION['SES_LOGIN'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Warehouse | </title>
-    <!-- Include Bootstrap 5 CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
     <?php include("csslink/styles.php"); ?>
 </head>
 <body class="nav-md">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-3 left_col bg-light">
-                <div class="d-flex flex-column vh-100 p-3">
-                    <div class="navbar nav_title text-center mb-4">
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
                         <a href="?page=index" class="site_title"><h2><b>Warehouse Systems</b></h2></a>
                     </div>
 
                     <!-- Profile Quick Info -->
-                    <div class="profile text-center">
-                        <div class="profile_pic mb-3">
-                            <img src="../images/9440461.jpg" alt="Profile Image" class="rounded-circle" style="width: 80px; height: 80px;">
+                    <div class="profile">
+                        <div class="profile_pic">
+                            <img src="../images/9440461.jpg" alt="Profile Image" class="img-circle profile_img">
                         </div>
                         <div class="profile_info">
                             <span>Welcome,</span>
@@ -44,70 +42,81 @@ if (!isset($_SESSION['SES_LOGIN'])) {
                     </div>
                     <!-- /Profile Quick Info -->
 
+                    <br />
+
                     <!-- Menu -->
+                    <?php include("jscript/js.php"); ?>
                     <?php include("menu.php"); ?>
                     <!-- /Menu -->
                 </div>
             </div>
 
             <!-- Top Navigation -->
-            <div class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-                <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm mb-4">
-                    <div class="container-fluid">
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarNav">
-                            <ul class="navbar-nav ms-auto">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        <img src="../images/user.png" alt="" class="rounded-circle" style="width: 30px; height: 30px;">
-                                        <?php echo $_SESSION['SES_LOGIN']; ?>
-                                    </a>
-                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
-                                        <li><a class="dropdown-item" href="?pages=logout"><i class="fa fa-sign-out"></i> Log Out</a></li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link">
-                                        <?php
-                                        function getUserIpAddr() {
-                                            if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
-                                                return $_SERVER['HTTP_CLIENT_IP'];
-                                            } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
-                                                return $_SERVER['HTTP_X_FORWARDED_FOR'];
-                                            }
-                                            return $_SERVER['REMOTE_ADDR'];
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav role="navigation">
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                    <img src="../images/user.png" alt=""><?php echo $_SESSION['SES_LOGIN']; ?>
+                                    <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right">
+                                    <li><a href="?pages=logout"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                    <?php
+                                    function getUserIpAddr() {
+                                        if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+                                            return $_SERVER['HTTP_CLIENT_IP'];
+                                        } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+                                            return $_SERVER['HTTP_X_FORWARDED_FOR'];
                                         }
-                                        echo 'User IP - ' . getUserIpAddr();
-                                        ?>
-                                    </a>
-                                </li>
-                            </ul>
+                                        return $_SERVER['REMOTE_ADDR'];
+                                    }
+
+                                    echo 'User IP - ' . getUserIpAddr();
+                                    ?>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <!-- /Top Navigation -->
+
+            <!-- Page Content -->
+            <div class="right_col" role="main">
+                <div class="post">
+                    <div class="post-center">
+                        <div class="container_content">
+                            <?php
+                            if (isset($_GET['pages'])) {
+                                include $_GET['pages'] . ".php";
+                            } else {
+                                include 'dashboard.php';
+                            }
+                            ?>
+                            <?php include("footer.php"); ?>
                         </div>
                     </div>
-                </nav>
-
-                <!-- Page Content -->
-                <main>
-                    <div class="container_content">
-                        <?php
-                        if (isset($_GET['pages'])) {
-                            include $_GET['pages'] . ".php";
-                        } else {
-                            include 'dashboard.php';
-                        }
-                        ?>
-                        <?php include("footer.php"); ?>
-                    </div>
-                </main>
-                <!-- /Page Content -->
+                </div>
             </div>
+            <!-- /Page Content -->
         </div>
     </div>
 
-    <!-- Include Bootstrap 5 JS -->
-   
-    <?php include("jscript/js.php"); ?>
+    <div id="custom_notifications" class="custom-notifications dsp_none">
+        <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group"></ul>
+        <div class="clearfix"></div>
+        <div id="notif-group" class="tabbed_notifications"></div>
+    </div>
 </body>
 </html>
